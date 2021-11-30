@@ -5,6 +5,6 @@ Analyzing local and global temperature data using SQL, Python, and Google Sheets
 - USing Google Sheets to calculate moving averages
 - Using Python to Visualize Data (Line Chart)
 - Tools
-- - Anaconda; Python via Jupyter 
-- - SQL
-- - Google Sheets
+ - Anaconda; Python via Jupyter 
+ - SQL
+ - Google Sheets
