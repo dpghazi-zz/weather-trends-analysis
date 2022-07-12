@@ -3,7 +3,7 @@
 
 ## Project Description
 * Analyzing local and global temperature data using SQL, Python, and Google Sheets.
-* Comparing the temperature trends Long Beach to overall global temperature trends
+* Comparing the temperature trends Long Beach to overall global temperature trends.
 
 ### Overview
   - SQL queries to retrieve and edit/store data
