@@ -8,7 +8,7 @@
   - Visualized data using matplotlib
   
 ### Languages & Tools
-* Python (pandas, matplotlib)
+* Python (Pandas, Matplotlib)
 * SQL 
 * Google Sheets
 
