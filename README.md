@@ -1,6 +1,6 @@
 # Weather Trends Analysis
 ## Project Description
-* Analyzing local and global temperature data using Python, SQL, and Google Sheets. In this project, I compared the temperature trends of Long Beach to the overall global temperature trends.
+* Analyzing local and global temperature data using Python, SQL, and Google Sheets. In this project, I compared the temperature trends of Long Beach, CA to the overall global temperature trends.
 
 ### Overview
   - Executed SQL queries to retrieve and edit/store data
