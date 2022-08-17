@@ -5,7 +5,7 @@
 ### Overview
   - Executed SQL queries to retrieve and edit/store data
   - Calculated moving averages using Google Sheets
-  - Visualized data using matplotlib
+  - Visualized data using Matplotlib
   
 ### Languages & Tools
 * Python (Pandas, Matplotlib)
